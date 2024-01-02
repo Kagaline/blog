@@ -1,0 +1,4 @@
+baseURL = "https://kagaline.github.io/blog/"
+languageCode = "en-us"
+title = "Kagaline's Lab"
+theme = "ananke"
